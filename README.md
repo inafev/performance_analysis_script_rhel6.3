@@ -1,4 +1,4 @@
-# performance_analysis_script_rhel6.3
+# Performance analysis script rhel6.3
 Performance Analysis script for RHEL6.3. htop, iotop, tiobench &amp; sar
 
 Ejecutar este script con usuario no root durante las pruebas de carga, ó cuando se produce un problema de sobrecarga y queremos recoger datos de análisis de rendimiento. 
